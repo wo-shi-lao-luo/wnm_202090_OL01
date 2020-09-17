@@ -37,10 +37,12 @@ body {
 
 .nav {
 	text-align: center;
+	width: 100%;
 }
 
 .nav ul li {
 	font-family: 'Oxygen', sans-serif;
 	font-weight: lighter;
 	display: inline-block;
+	width: 25%;
 }
