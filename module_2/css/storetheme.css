@@ -1,0 +1,47 @@
+:root {
+	--color-offwhite: #f4f4f4;
+}
+body {
+	background-color: var(--color-offwhite);
+}
+
+.freeship {
+	text-align: center;
+	font-size: 0.7em;
+	background-color: #A88A80;
+	padding: 10px 0;
+}
+
+.freeship h3 {
+	font-family: 'Oxygen', sans-serif;
+	margin: 0 auto;
+}
+
+.title {
+	text-align: center;
+	margin-top: 30px;
+}
+
+.title h1 {
+	font-family: 'Balsamiq Sans', cursive;
+	color: #ffffff;
+}
+
+.heroimage {
+	background-image: url("../img/landing_head.jpg");
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+.nav {
+	text-align: center;
+	width: 100%;
+}
+
+.nav ul li {
+	font-family: 'Oxygen', sans-serif;
+	font-weight: lighter;
+	display: inline-block;
+	width: 25%;
